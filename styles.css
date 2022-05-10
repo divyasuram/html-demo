@@ -12,8 +12,8 @@ text-align: justify;
 #boxB{
 width:25em;
 border-style: double;
-border-top:10px darkslategrey;
-border-bottom:10px darkslategrey;
+border-left:10px darkslategrey;
+border-right:10px darkslategrey;
 background-color: #DFF;
 padding-left: 20px;
 padding-right: 20px;
