@@ -1,4 +1,4 @@
-.boxA{
+#boxA{
 width: 50%;
 margin-top: 15px ;
 margin-bottom: 15px ;
@@ -9,7 +9,7 @@ border-width: 5px;
 padding: 1.5em;
 text-align: justify;
 }
-.boxB{
+#boxB{
 width:25em;
 border-style: double;
 border-top:10px darkslategrey;
@@ -24,7 +24,7 @@ margin-right:  2em;
 margin-left:2em ;
 margin-bottom: 20px;
 }
-.boxC{ 
+#boxC{ 
 margin-left:500px;
 margin-right:150px ;
 margin-top: 2em;
