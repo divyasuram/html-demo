@@ -1,37 +1,15 @@
-#boxA{
-width: 50%;
-margin-top: 15px ;
-margin-bottom: 15px ;
-background-color: #FFD;
-border-style: dashed;
-border-color: #F4A460;
-border-width: 5px;
-padding: 1.5em;
-text-align: justify;
+.card{
+    border: 5px solid yellow;
+    border-radius: 20px;
+  }
+  .button{
+    text-align: center;
+  }
+.btn-primary {
+    background-color: black !important;
+    color: yellow;
+    align-items: center;
 }
-#boxB{
-width:25em;
-border-style: double;
-border-left:10px darkslategrey;
-border-right:10px darkslategrey;
-background-color: #DFF;
-padding-left: 20px;
-padding-right: 20px;
-padding-top: 2em;
-padding-bottom: 2em;
-margin-top:  2em;
-margin-right:  2em;
-margin-left:2em ;
-margin-bottom: 20px;
-}
-#boxC{ 
-margin-left:500px;
-margin-right:150px ;
-margin-top: 2em;
-margin-bottom: 1em;
-border-style: ridge;
-border-width:1em;
-border-color: lightsalmon;
-padding:30px;
-background-color: burlywood;
+.btn-primary:hover{
+color: white;
 }
